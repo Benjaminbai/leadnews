@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/api/vi/login")
+@RequestMapping("/api/v1/login")
 @Api(value = "app端用户登录", tags = "app端用户登录")
 public class ApUserController {
     @Autowired
