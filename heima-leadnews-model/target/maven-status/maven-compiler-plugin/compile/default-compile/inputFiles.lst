@@ -1,0 +1,10 @@
+/Users/benjamin/study/heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/common/dtos/PageResponseResult.java
+/Users/benjamin/study/heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/common/enums/AppHttpCodeEnum.java
+/Users/benjamin/study/heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/article/pojos/ApArticleConfig.java
+/Users/benjamin/study/heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/article/pojos/ApArticleContent.java
+/Users/benjamin/study/heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/user/dtos/LoginDto.java
+/Users/benjamin/study/heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/common/dtos/PageRequestDto.java
+/Users/benjamin/study/heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/article/dtos/ArticleHomeDto.java
+/Users/benjamin/study/heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/article/pojos/ApArticle.java
+/Users/benjamin/study/heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/user/pojos/ApUser.java
+/Users/benjamin/study/heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/common/dtos/ResponseResult.java
