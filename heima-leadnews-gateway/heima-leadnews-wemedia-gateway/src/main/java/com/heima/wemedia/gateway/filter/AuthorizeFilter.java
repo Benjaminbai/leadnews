@@ -48,7 +48,7 @@ public class AuthorizeFilter implements Ordered, GlobalFilter {
                 response.setStatusCode(HttpStatus.UNAUTHORIZED);
                 return response.setComplete();
             }
-            String userId = claimsBody.getId();
+            String userId = claimsBody.get("id") + "";
             ServerHttpRequest serverHttpRequest = request.mutate().headers(httpHeaders -> {
                 httpHeaders.add("userId", userId + "");
             }).build();
