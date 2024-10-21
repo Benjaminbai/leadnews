@@ -41,7 +41,9 @@ public class WmNewsDto {
      * 状态 提交为1  草稿为0
      */
     private Short status;
-     
+
+    private Short enable;
+
      /**
      * 封面图片列表 多张图以逗号隔开
      */
